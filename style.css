@@ -61,7 +61,7 @@ button:hover{
     color: aliceblue;
 }
 .clear{
-    color: red;
+    color: brown;
 }
 .operator{
     color: green;
@@ -69,4 +69,7 @@ button:hover{
 .equal{
     background-color: green;
     grid-row: span 3;
+}
+.cero{
+    grid-column: span 2;
 }
